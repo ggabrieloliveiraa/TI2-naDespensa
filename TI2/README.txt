@@ -1,2 +1,1 @@
-gay
-too much love
+
