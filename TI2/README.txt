@@ -1,7 +1,9 @@
 Sprint 2 TIBD - naDespensa
+Link do vídeo da apresentação: https://youtu.be/PU6XM2OCyp0
 
-Wanderson Teixeira
-Gabriel Oliveira
+Integrantes do grupo:
 Arthur Castro
-Helena Ferreira
 Fabiano Queiroz
+Gabriel Oliveira
+Helena Ferreira
+Wanderson Teixeira
