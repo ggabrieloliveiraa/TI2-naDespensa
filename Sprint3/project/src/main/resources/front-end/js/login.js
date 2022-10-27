@@ -118,6 +118,7 @@ login.addEventListener('click', () => {
   container.classList.remove('active');
 });
 
+/*
 function test() {
   function gerarID() {
     let novoId = 1;
@@ -131,7 +132,7 @@ function test() {
       e.preventDefault();
       let name = document.getElementById('inputName').value;
       let email = document.getElementById('inputEmail').value;
-      let date = document.getElementById('inputDate').value;
+      //let date = document.getElementById('inputDate').value;
       //let celnumber = document.getElementById('inputCelNumber').value;
       //let cpf = document.getElementById('inputCPF').value;
       let pwd = document.getElementById('inputPwd').value;
@@ -141,7 +142,7 @@ function test() {
         id: id,
         name: name,
         email: email,
-        date: date,
+        //date: date,
         //celnumber: celnumber,
         //cpf: cpf,
         pwd: pwd,
@@ -155,11 +156,10 @@ function test() {
       init();
       alert('Conta criada com sucesso!!');
       container.classList.remove('active');
-      if (ocupacao === 'paciente')
-        window.open('login/quiz.html', 'janelaNova');
+      //if (ocupacao === 'paciente')
+       // window.open('login/quiz.html', 'janelaNova');
     });
 }
-
 function search(email, pwd, inputArray) {
   if (email === 'admin' && pwd === '1234') {
     alert('Bem vindo admin!');
@@ -187,6 +187,7 @@ function search(email, pwd, inputArray) {
   }
   alert('conta inexistente no sistema');
 }
+*/
 
 document.querySelector('form.vEntrar').addEventListener('submit', function (e) {
   e.preventDefault();
